@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/soyra/Videos/AlimentacionSaludable/src/alimentacionsaludable/AlimentacionSaludable.java</file>
+            <file>file:/C:/Users/soyra/Videos/AlimentacionSaludable/src/dominio/Usuario.java</file>
+            <file>file:/C:/Users/soyra/Videos/AlimentacionSaludable/src/interfaz/InterfazBotonesProfesional.java</file>
+            <file>file:/C:/Users/soyra/Videos/AlimentacionSaludable/src/dominio/Profesional.java</file>
+            <file>file:/C:/Users/soyra/Videos/AlimentacionSaludable/test/dominio/ComidaPorDiaTest.java</file>
+            <file>file:/C:/Users/soyra/Videos/AlimentacionSaludable/src/dominio/Sistema.java</file>
+            <file>file:/C:/Users/soyra/Videos/AlimentacionSaludable/test/dominio/PersonaTest.java</file>
+            <file>file:/C:/Users/soyra/Videos/AlimentacionSaludable/test/dominio/DominioSuite.java</file>
+            <file>file:/C:/Users/soyra/Videos/AlimentacionSaludable/src/dominio/Mensaje.java</file>
+            <file>file:/C:/Users/soyra/Videos/AlimentacionSaludable/src/interfaz/PanelRegistroProfesional.java</file>
+            <file>file:/C:/Users/soyra/Videos/AlimentacionSaludable/src/dominio/ComidaPorDia.java</file>
+            <file>file:/C:/Users/soyra/Videos/AlimentacionSaludable/src/interfaz/InterfazBotonesUsuario.java</file>
+            <file>file:/C:/Users/soyra/Videos/AlimentacionSaludable/test/dominio/ProfesionalTest.java</file>
+            <file>file:/C:/Users/soyra/Videos/AlimentacionSaludable/src/interfaz/PanelRegistroUsuario.java</file>
+            <file>file:/C:/Users/soyra/Videos/AlimentacionSaludable/test/dominio/PlanDeAlimentacionTest.java</file>
+            <file>file:/C:/Users/soyra/Videos/AlimentacionSaludable/test/dominio/MensajeTest.java</file>
+            <file>file:/C:/Users/soyra/Videos/AlimentacionSaludable/src/interfaz/InterfazBotonesAdministrador.java</file>
+            <file>file:/C:/Users/soyra/Videos/AlimentacionSaludable/test/dominio/AlimentoTest.java</file>
+            <file>file:/C:/Users/soyra/Videos/AlimentacionSaludable/src/dominio/Alimento.java</file>
+            <file>file:/C:/Users/soyra/Videos/AlimentacionSaludable/src/dominio/PlanDeAlimentacion.java</file>
+            <file>file:/C:/Users/soyra/Videos/AlimentacionSaludable/src/dominio/Persona.java</file>
+        </group>
+    </open-files>
+</project-private>
